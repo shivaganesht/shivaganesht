@@ -123,7 +123,7 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivaganesht&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
 
 <!-- Streak stats -->
-<br><br>
+<!--br><br>
 <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaganesht&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 <!-- Activity graph -->
