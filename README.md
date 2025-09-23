@@ -73,8 +73,6 @@
 
 <div align="center">
 
-![Tech Background](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-
 <table>
 <tr>
 <td width="50%">
@@ -126,7 +124,7 @@
 
 <!-- Streak stats -->
 <br><br>
-<img src="https://streak-stats.demolab.com/shivaganesht?theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&hide_border=true"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivaganesht&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 <!-- Activity graph -->
 <br><br>
