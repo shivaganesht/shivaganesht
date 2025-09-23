@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaganesht&label=Profile%20views&color=0e75b6&style=flat" alt="shivaganesht" /> </p>
 
+<!-- Last updated: September 23, 2025 -->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaganesht" alt="shivaganesht" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivaganesh_t" target="blank"><img src="https://img.shields.io/twitter/follow/shivaganesh_t?logo=twitter&style=for-the-badge" alt="shivaganesh_t" /></a> </p>
