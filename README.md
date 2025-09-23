@@ -77,7 +77,8 @@
 
 ## 🎯 **Current Focus & Goals**
 
-<table>
+<div align="center">
+<table style="background-image: url('https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'); background-size: cover; background-position: center; border-radius: 15px; padding: 20px;">
 <tr>
 <td width="50%">
 
@@ -98,6 +99,8 @@
 
 </td>
 </tr>
+</table>
+</div>
 </table>
 
 ---
