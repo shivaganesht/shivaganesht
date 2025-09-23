@@ -124,7 +124,7 @@
 
 <!-- Streak stats -->
 <br><br>
-<a href="https://github.com/shivaganesht"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivaganesht&theme=tokyonight&border_radius=10" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaganesht&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 
 <!-- Activity graph -->
 <br><br>
