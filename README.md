@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-██████  ███████ ██    ██ ███████ ██       ██████  ██████  ███████ ██████  
-██   ██ ██      ██    ██ ██      ██      ██    ██ ██   ██ ██      ██   ██ 
-██   ██ █████   ██    ██ █████   ██      ██    ██ ██████  █████   ██████  
-██   ██ ██       ██  ██  ██      ██      ██    ██ ██      ██      ██   ██ 
-██████  ███████   ████   ███████ ███████  ██████  ██      ███████ ██   ██ 
-```
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Developer Animation"/>
 
 # 🚀 **Shiva Ganesh Talikota**
 ### *Founder @ matriXO • AI/ML Engineer • EdTech Innovator • Blockchain Enthusiast*
@@ -78,7 +72,10 @@
 ## 🎯 **Current Focus & Goals**
 
 <div align="center">
-<table style="background-image: url('https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80'); background-size: cover; background-position: center; border-radius: 15px; padding: 20px;">
+
+![Tech Background](https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+
+<table>
 <tr>
 <td width="50%">
 
@@ -129,7 +126,7 @@
 
 <!-- Streak stats -->
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=shivaganesht&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaganesht&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 <!-- Activity graph -->
 <br><br>
@@ -259,16 +256,7 @@ collaboration: "Always open to innovative projects!"
 
 <div align="center">
 
-```
- _____ _                 _          __              _     _ _   _             
-|_   _| |               | |        / _|            (_)   (_) | (_)            
-  | | | |__   __ _ _ __ | | _____  | |_ ___  _ __    __   ___ ___| |_ _ _ __   __ _ 
-  | | | '_ \ / _` | '_ \| |/ / __| |  _/ _ \| '__|   \ \ / / / __| | __| | '_ \ / _` |
-  | | | | | | (_| | | | |   <\__ \ | || (_) | |     \ V /| \__ \ | |_| | | | | (_| |
-  \_/ |_| |_|\__,_|_| |_|_|\_\___/ |_| \___/|_|      \_/ |_|___/_|\__|_|_| |_|\__, |
-                                                                               __/ |
-                                                                              |___/ 
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Thank You Animation"/>
 
 ### 🎯 **"Code. Create. Innovate. Repeat."** 
 
