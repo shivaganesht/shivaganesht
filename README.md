@@ -104,10 +104,10 @@
 <div align="center">
 
 ### 💡 **Looking to collaborate on:**
-**AI/ML Research** • **Open Source Projects** • **EdTech Solutions** • **Blockchain Innovation**
+**AI/ML Research** • **Open Source Projects** • **EdTech Solutions** • **Innovative Ideas**
 
 ### 🎯 **Seeking support with:**
-**Scaling matriXO** • **Community Building** • **Open Source Contributions** • **Strategic Partnerships**
+**Scaling Startups** • **Community Building** • **Open Source Contributions** • **Strategic Partnerships**
 
 </div>
 
