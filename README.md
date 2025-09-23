@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Header with animated typing -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=28&fontColor=fff&animation=twinkling" />
+```
+██████  ███████ ██    ██ ███████ ██       ██████  ██████  ███████ ██████  
+██   ██ ██      ██    ██ ██      ██      ██    ██ ██   ██ ██      ██   ██ 
+██   ██ █████   ██    ██ █████   ██      ██    ██ ██████  █████   ██████  
+██   ██ ██       ██  ██  ██      ██      ██    ██ ██      ██      ██   ██ 
+██████  ███████   ████   ███████ ███████  ██████  ██      ███████ ██   ██ 
+```
 
 # 🚀 **Shiva Ganesh Talikota**
 ### *Founder @ matriXO • AI/ML Engineer • EdTech Innovator • Blockchain Enthusiast*
@@ -116,16 +121,16 @@
 <div align="center">
 
 <!-- Main stats side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivaganesht&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaganesht&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivaganesht&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivaganesht&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
 
 <!-- Streak stats -->
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaganesht&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img src="https://streak-stats.demolab.com/?user=shivaganesht&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 <!-- Activity graph -->
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaganesht&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=00d4ff&point=ffffff&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaganesht&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -149,16 +154,16 @@
 <tr>
 <td width="50%">
 
-[![PropChain](https://github-readme-stats.vercel.app/api/pin/?username=shivaganesht&repo=PropChain&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/PropChain)
+[![PropChain](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivaganesht&repo=PropChain&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/PropChain)
 
-[![Nutri Advice](https://github-readme-stats.vercel.app/api/pin/?username=shivaganesht&repo=Nutri-Advice&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/Nutri-Advice)
+[![Nutri Advice](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivaganesht&repo=Nutri-Advice&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/Nutri-Advice)
 
 </td>
 <td width="50%">
 
-[![Amazon ML Challenge](https://github-readme-stats.vercel.app/api/pin/?username=shivaganesht&repo=Amazon-ML-Challenge-2024&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/Amazon-ML-Challenge-2024)
+[![Amazon ML Challenge](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivaganesht&repo=Amazon-ML-Challenge-2024&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/Amazon-ML-Challenge-2024)
 
-[![Psypher Bot](https://github-readme-stats.vercel.app/api/pin/?username=shivaganesht&repo=Psypher-An-Emotional-Intelligent-Bot&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/Psypher-An-Emotional-Intelligent-Bot)
+[![Psypher Bot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivaganesht&repo=Psypher-An-Emotional-Intelligent-Bot&theme=tokyonight&border_color=00d4ff)](https://github.com/shivaganesht/Psypher-An-Emotional-Intelligent-Bot)
 
 </td>
 </tr>
@@ -251,12 +256,20 @@ collaboration: "Always open to innovative projects!"
 
 <div align="center">
 
+```
+ _____ _                 _          __              _     _ _   _             
+|_   _| |               | |        / _|            (_)   (_) | (_)            
+  | | | |__   __ _ _ __ | | _____  | |_ ___  _ __    __   ___ ___| |_ _ _ __   __ _ 
+  | | | '_ \ / _` | '_ \| |/ / __| |  _/ _ \| '__|   \ \ / / / __| | __| | '_ \ / _` |
+  | | | | | | (_| | | | |   <\__ \ | || (_) | |     \ V /| \__ \ | |_| | | | | (_| |
+  \_/ |_| |_|\__,_|_| |_|_|\_\___/ |_| \___/|_|      \_/ |_|___/_|\__|_|_| |_|\__, |
+                                                                               __/ |
+                                                                              |___/ 
+```
+
 ### 🎯 **"Code. Create. Innovate. Repeat."** 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities!" />
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=16" />
 
 **⭐ Star my repositories if you find them interesting!**
 
