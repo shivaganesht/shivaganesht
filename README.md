@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![Tech Background](https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![Tech Background](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 <table>
 <tr>
