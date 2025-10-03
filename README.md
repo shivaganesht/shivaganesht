@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Developer Animation"/>
 
-# 🚀 **Shiva Ganesh Talikota**
+# 🚀 [**Shiva Ganesh Talikota**](https://shivaganesht.in)
 ### *Founder at matriXO • CSR Summit 2025 Core Team • AI/ML Enthusiast • EdTech Entrepreneur • Speaker • Content Creator • Community Lead • Innovative Mindset*
 
 <!-- Typing animation -->
