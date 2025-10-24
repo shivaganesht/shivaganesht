@@ -223,6 +223,7 @@
 <p>
 <a href="https://github.com/shivaganesht"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://auth.geeksforgeeks.org/user/shivaganesht"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+[![An image of @shivaganesht's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivaganesht)](https://holopin.io/@shivaganesht)
 </p>
 
 ### 📧 **Get In Touch**
