@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Developer Animation"/>
 
 # 🚀 [**Shiva Ganesh Talikota**](https://shivaganesht.in)
-### *Founder at [matriXO](https://matrixo.in) • CSR Summit 2025 Core Team • AI/ML Enthusiast • EdTech Entrepreneur • Speaker • Content Creator • Community Lead • Innovative Mindset*
+### *Founder at [matriXO](https://matrixo.in) • [CSR Summit](https://csrnow.in) 2025 Core Team • AI/ML Enthusiast • EdTech Entrepreneur • Speaker • Content Creator • Community Lead • Innovative Mindset*
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=💻+Turning+Ideas+into+Reality;🚀+Building+the+Future+with+AI;🌟+324%2B+GitHub+Contributions)](https://git.io/typing-svg)
