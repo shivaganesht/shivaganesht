@@ -44,7 +44,7 @@
   cloud: ["AWS", "Azure", "GCP"]
   
 🏆 Achievements:
-  - "324+ GitHub Contributions (2025)"
+  - "700+ GitHub Contributions in one year (2025)"
   - "AI Research Publications"
   - "Open Source Contributor"
   - "Community Leader"
@@ -81,7 +81,7 @@
 - 🚀 **matriXO**: Revolutionary EdTech platform
 - 🤖 **AI Projects**: Agentic AI & NLP solutions
 - 🌟 **Community Initiatives**: Developer ecosystems
-- 📱 **PropChain**: Blockchain real estate platform
+- 📱 **PropChain**: Blockchain real estate platform (Hacakthon Project)
 
 </td>
 <td width="50%">
@@ -105,7 +105,7 @@
 <div align="center">
 
 ### 💡 **Looking to collaborate on:**
-**AI/ML Research** • **Open Source Projects** • **EdTech Solutions** • **Innovative Ideas**
+**AI & ML Research** • **Open Source Projects** • **Startup Solutions** • **Innovative Ideas**
 
 ### 🎯 **Seeking support with:**
 **Scaling Startups** • **Community Building** • **Open Source Contributions** • **Strategic Partnerships**
